@@ -1,4 +1,4 @@
-# :rocket: WallStreetBets Stock Research Posts Classifier :rocket:
+# : r/wallstreetbets Stock Research Posts Classifier
 
 ***
 # **I. Abstract**
@@ -7,7 +7,7 @@ One of the most popular platforms for stocks and financial discussion is a subre
 
 # **II. Introduction**
 
-With the influx of retail investors during the 2021 Coronavirus pandemic and GameStop fiasco, it is more important now than ever for people to educate themselves on investment decisions. The largest financial subreddit, r/WallStreetBets, is home to many memes, however, many **DD*** posts are also present.
+With the influx of retail investors during the 2020 Coronavirus pandemic and GameStop fiasco, it is more important now than ever for people to educate themselves on investment decisions. The largest financial subreddit, r/WallStreetBets, is home to many memes, however, many **DD*** posts are also present.
 
 Unlike professional investors, retail investors have very limited time to conduct their own research as they usually have a separate career. In this project, we aim to further democratize stock trading by filtering and classifying stock research such that every regular investor has the opportunity to quickly access them.
 
