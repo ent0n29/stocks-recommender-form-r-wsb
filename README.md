@@ -1,4 +1,4 @@
-# : r/wallstreetbets Stock Research Posts Classifier
+# r/wallstreetbets Stock Research Posts Classifier
 
 ***
 # **I. Abstract**
