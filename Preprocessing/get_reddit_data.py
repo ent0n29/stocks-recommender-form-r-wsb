@@ -10,7 +10,7 @@ import re
 import math
 import json
 import requests
-import itertools
+import itertools  
 import numpy as np
 import pandas as pd
 import time
